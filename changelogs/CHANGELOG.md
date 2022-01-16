@@ -1,3 +1,205 @@
+### All of Fabric 5 | v0.2.11
+
+_Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/changelog_mods_0.2.11.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/modlist_0.2.11.md)_
+
+## Changes
+
+* Hide Indrev steel & silver armor from REI.
+* Replace inputs of magitek mechs iron gear with MI equivalent.
+* New recipe for Basic Machine Frame (https://i.imgur.com/psubDWt.png).
+* New recipe for Grinder (https://i.imgur.com/8pdGxfN.png)
+
+
+## Fixes
+
+* Fixed FakePlayer server crash with Kibe spikes.
+* Fixed keybind conflicts with T key in inventory.
+* Fixed Wheel Tweak blocking the open container's wheel handling.
+* Fixed chalk and dwarf coal always showing up in REI, I promise I did it this time.
+* Fixed incorrect output of bronze crook.
+* Fixed tin curved plate not being allowed in indrev compressor.
+
+## Added
+
+* [XP Obelisk](https://www.curseforge.com/minecraft/mc-mods/xp-obelisk)
+
+---
+
+### All of Fabric 5 | v0.2.10
+
+_Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/changelog_mods_0.2.10.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/modlist_0.2.10.md)_
+
+## Changes
+
+* Added Indrev pulverizer recipes for MI tungsten, antimony, nickel, iridium & coke dusts.
+* Nerfed certus quartz ore per cluster.
+* Heavily altered the Big Torch recipe, moved it into mid game.
+* Mounted flight is back! Ya'll like your dragons too much...
+* Added shaped flint recipe from 3 gravel.
+* Added lignite coal to coals tag, this will allow for mainly lignite in bewitchment recipes but also a couple others.
+* Compatibility check for version will no longer show modpack name, less clutter.
+
+## Fixes
+
+* Fixed missing recipes for the Can I Trash It trashcans.
+* Fixed a crash with the Indrev Rancher.
+* Fixed crash issues with Indrev GUIs.
+* Fixed bewitchment autoremove script for silver materials.
+* Fixed charging (some) items beyond their max power.
+* Fixed chalk & dwarf coal always showing up in REI.
+* Fixed multiple missing unification inputs for tech reborn raw ore & dusts.
+* Fixed missing autoremoves for outputs of indrev ingots.
+* Fixed potential issue with manifest shipping two files of AE2 Things causing certain crashes (Could just see this happening with GDLauncher).
+* Fixed dwarf charcoal using incorrect tag as shapeless input. 
+
+## Added
+
+* [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
+* [Crooked Crooks](https://www.curseforge.com/minecraft/mc-mods/crooked-crooks)
+
+---
+
+### All of Fabric 5 | v0.2.9
+
+_Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/changelog_mods_0.2.9.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/modlist_0.2.9.md)_
+
+## Changes
+
+* Nerfed Conjuring values by 100%
+* Nerfed Mythic Mount spawn chances.
+* Disabled mounted Flight
+
+## Fixes
+
+* Fixed TooltipComponent crash when hovering over certain items.
+* Fixed crash when dragging items.
+
+---
+
+### All of Fabric 5 | v0.2.8
+
+_Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/changelog_mods_0.2.8.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/modlist_0.2.8.md)_
+
+## Changes
+
+* Allow curved plates to be made in the indrev compressor.
+* You no longer freeze to death in cold biomes.
+* Hide Indrev bronze gear/tools.
+* Added EU server to server list.
+* New custom advancement plaque textures by Anam.
+* Croptopia Onion & Rice as input now uses the Farmer's Delight equivalent.
+* Removed Steel & Electrum dust recipes from the Infuser.
+* Disabled wheel tweak as it broke MI set slot capacity in machines.
+* Disabled indrev bronze tools as they're replaced by tech reborn.
+* Added recipes for certus quartz in the indrev pulverizer.
+* Altered recipes for indrev item & fluid pipes to be made towards mid game.
+
+## Fixes
+
+* Fixed outputs sometimes showing as invisible.
+* Fixed an issue where /reload wouldnt work.
+* Fixed heat generator not consuming input.
+* Fixed broken nether/end errors, it'll now apply patches to fix these issues on load.
+* Fixed blasting unification.
+* Fixed empty upgrades from indrev not being craftable.
+
+## Added
+
+* [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2things)
+* [Artifality](https://www.curseforge.com/minecraft/mc-mods/artifality)
+* [Basic Shields [Fabric]](https://www.curseforge.com/minecraft/mc-mods/basic-shields-fabric)
+* [Can You Trash It?](https://www.curseforge.com/minecraft/mc-mods/can-you-trash-it)
+* [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
+* [Dwarf Coal (Fabric)](https://www.curseforge.com/minecraft/mc-mods/dwarf-coal-fabric)
+* [FTB Chunks (Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-fabric)
+* [FTB Library (Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric)
+* [FTB Ranks (Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-fabric)
+* [FTB Teams (Fabric)](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric)
+* [Fabric Shield Lib](https://www.curseforge.com/minecraft/mc-mods/fabric-shield-lib)
+
+## Removed
+
+* [FastBench for Fabric](https://www.curseforge.com/minecraft/mc-mods/fastbench-for-fabric)
+* [Wilder World](https://www.curseforge.com/minecraft/mc-mods/wilder-world)
+* [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+* [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+---
+
+### All of Fabric 5 | v0.2.7
+
+## A world reset is HIGHLY recommended with this update!
+
+_Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/changelog_mods_0.2.7.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/modlist_0.2.7.md)_
+
+## Added
+
+* [Golden Hoppers](https://www.curseforge.com/minecraft/mc-mods/golden-hoppers)
+* [KleeSlabs (Fabric Edition)](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric)
+* [MmmMmmMmmMmm (Target Dummy)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
+
+## Removed
+
+* [Full Slabs](https://www.curseforge.com/minecraft/mc-mods/full-slabs)
+* [Straw Dummy](https://www.curseforge.com/minecraft/mc-mods/straw-dummy)
+
+---
+
+### All of Fabric 5 | v0.2.6
+
+## A world reset is HIGHLY recommended with this update!
+
+_Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/changelog_mods_0.2.6.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/modlist_0.2.6.md)_
+
+## Changes
+
+* Added recipes for Blockus and Promenade stone types via the MI Mixer.
+* Enabled silver ore in the world.
+* Disabled auto jump by default.
+* Gated Iridium plates behind MI compression (You were able to do it through TR prior to this).
+* Disabled Pocket Crafting and Portable Crafting recipes as Crafting Table On A Stick now exists.
+
+## Fixes
+
+* Fixed recipe conflict with Winterly Paper Block.
+* Fixed registry error preventing server joining with redstone bits.
+* Fixed sign crashes with Wilder World.
+* Fixed rituals using salt as inputs (added salt conversion between MI & BW).
+* Fixed chisel UI not working unless rejoining.
+* Fixed dupe exploit with building staffs.
+
+## Added
+
+* [Auto Config Updated API](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api)
+* [BCLib](https://www.curseforge.com/minecraft/mc-mods/bclib)
+* [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus)
+* [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend)
+* [Croptopia's Chocolaterie](https://www.curseforge.com/minecraft/mc-mods/croptopias-chocolaterie)
+* [Dimension Fix (Some Forge Patches Ported)](https://www.curseforge.com/minecraft/mc-mods/dimension-fix-some-forge-patches-ported)
+* [Elytra Trinket (Fabric)](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)
+* [FastBench for Fabric](https://www.curseforge.com/minecraft/mc-mods/fastbench-for-fabric)
+* [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone)
+* [Fix Experience Bug (now with FABRIC and FORGE versions)](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+* [Floral Flair [Fabric]](https://www.curseforge.com/minecraft/mc-mods/floral-flair-fabric)
+* [Full Slabs](https://www.curseforge.com/minecraft/mc-mods/full-slabs)
+* [Improved Stations (Fabric)](https://www.curseforge.com/minecraft/mc-mods/improved-stations)
+* [Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)
+* [Iron Jetpacks Fabric](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks-fabric)
+* [Nears [Fabric]](https://www.curseforge.com/minecraft/mc-mods/nears)
+* [No Angled Brackets](https://www.curseforge.com/minecraft/mc-mods/no-angled-brackets)
+* [No Null Processors](https://www.curseforge.com/minecraft/mc-mods/no-null-processors)
+* [Wireless Networks](https://www.curseforge.com/minecraft/mc-mods/wireless-networks)
+* [⚒️ On A Stick [FABRIC]](https://www.curseforge.com/minecraft/mc-mods/onastick)
+
+## Removed
+
+* [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod)
+* [Christmas Spirit: Rewoven](https://www.curseforge.com/minecraft/mc-mods/christmas-spirit-rewoven)
+* [Grizzly bear Mod](https://www.curseforge.com/minecraft/mc-mods/grizzly-bear)
+* [KleeSlabs (Fabric Edition)](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric)
+
+---
+
 ### All of Fabric 5 | v0.2.5
 
 _Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/changelog_mods_0.2.5.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/modlist_0.2.5.md)_
@@ -44,6 +246,7 @@ _Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabri
 - Chiseling blocks should now properly work.
 
 **Added**
+
 - Attribute Fix
 - Bewitchment
 - Farmer's Delight
@@ -56,6 +259,7 @@ _Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabri
 - Winterly
   
 **Removed**  
+
 - Compact Status Effects
 - Wild World
 
@@ -67,7 +271,7 @@ _Fabric Loader 0.12.12_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/
 
 **Fixes**
 
-- Server crash.
+- Fixed server crash.
 
 **Removed**
 

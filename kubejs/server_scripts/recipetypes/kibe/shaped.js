@@ -7,11 +7,11 @@
 
 onEvent('recipes', (event) => {
 
-  // Angel Ring
-  event.shaped("kibe:angel_ring", [
-    ['kibe:glider_left_wing',                'minecraft:end_crystal',             'kibe:glider_right_wing'],
-    ['minecraft:elytra',                     'kibe:diamond_ring',                 'minecraft:elytra'],
-    ['conjuring:stabilized_conjuring_focus', 'techreborn:superconductor_upgrade', 'conjuring:stabilized_conjuring_focus'],
+  // Big Torch
+  event.shaped('kibe:big_torch', [
+    ['bewitchment:golden_candelabra',             'bewitchment:golden_candelabra', 'bewitchment:golden_candelabra'],
+    ['modern_industrialization:diamond_plate',    '#minecraft:logs',                'modern_industrialization:diamond_plate'],
+    ['modern_industrialization:gold_large_plate', '#minecraft:logs',                'modern_industrialization:gold_large_plate'],
   ]);
 
 });

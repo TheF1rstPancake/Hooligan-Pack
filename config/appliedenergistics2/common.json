@@ -54,8 +54,8 @@
     "meteoriteBiomeBlacklist": [],
     "spawnPressesInMeteorites": true,
     "generateQuartzOre": true,
-    "quartzOresPerCluster": 7,
-    "quartzOresClusterAmount": 20,
+    "quartzOresPerCluster": 5,
+    "quartzOresClusterAmount": 15,
     "quartzOresBiomeBlacklist": []
   },
   "wireless": {
@@ -66,6 +66,10 @@
     "wirelessBoosterExp": 1.5,
     "wirelessHighWirelessCount": 64.0,
     "wirelessTerminalDrainMultiplier": 1.0
+  },
+  "PortableCells": {
+    "__comment": "Allow disassembly of portable cells into the recipe ingredients using shift+right-click",
+    "allowDisassembly": true
   },
   "PowerRatios": {
     "TechReborn": 2.0,
