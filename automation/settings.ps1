@@ -6,24 +6,24 @@ $InstanceRoot = ("$PSScriptRoot/.." | Resolve-Path)
 #  CURSEFORGE ACCOUNT SETTINGS
 # =====================================================================//
 
-$CURSEFORGE_USER = "HeyAmAK9"
+$CURSEFORGE_USER = "thef1rstpancake"
 
 # For details see: https://www.curseforge.com/account/api-tokens
 # Defined in secrets.ps1 
 # $CURSEFORGE_TOKEN = 
 
 # ProjectID can be found on the modpack's Curseforge Projects page, under "About This Project"
-$CURSEFORGE_PROJECT_ID = 548076
+$CURSEFORGE_PROJECT_ID = 568409
 
 # =====================================================================//
 #  MAIN MODPACK SETTINGS
 # =====================================================================//
 
-# This is the modpack name as seen in it's CurseForge url: https://www.curseforge.com/minecraft/modpacks/[all-of-fabric-5]
-$MODPACK_NAME = "all-of-fabric-5"
+# This is the modpack name as seen in it's CurseForge url: https://www.curseforge.com/minecraft/modpacks/[Hooligan-Pack]
+$MODPACK_NAME = "hooligan-pack"
 
 # Name of the Modpack in the ZIP File
-$CLIENT_NAME = "All-of-Fabric-5"
+$CLIENT_NAME = "Hooligan-Pack"
 
 # Version Of The Modpack
 $MODPACK_VERSION = "0.2.5"
@@ -42,7 +42,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "[![](https://i.imgur.com/o5aNlUD.jpg)](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/CHANGELOG.md)"
+$CLIENT_CHANGELOG = "[![](https://i.imgur.com/o5aNlUD.jpg)](https://github.com/TeamAOF/Hooligan-Pack/blob/main/changelogs/CHANGELOG.md)"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
@@ -166,7 +166,7 @@ $CLIENT_ZIP_NAME = "$CLIENT_NAME-$MODPACK_VERSION"
 $LAST_MODPACK_ZIP_NAME = "$CLIENT_NAME-$LAST_MODPACK_VERSION"
 
 # Default: "$CLIENT_NAME $MODPACK_VERSION"
-$CLIENT_FILE_DISPLAY_NAME = "All of Fabric 5 - $MODPACK_VERSION"
+$CLIENT_FILE_DISPLAY_NAME = "Hooligan Pack - $MODPACK_VERSION"
 
 # Can be "markdown", "text" or "html"
 # Default: $CLIENT_CHANGELOG_TYPE
@@ -184,7 +184,7 @@ $SERVER_RELEASE_TYPE = $CLIENT_RELEASE_TYPE
 $SERVER_ZIP_NAME = "$CLIENT_NAME`-Server-$MODPACK_VERSION"
 
 # Default: $SERVER_FILENAME
-$SERVER_FILE_DISPLAY_NAME = "All of Fabric 5 Server - $MODPACK_VERSION"
+$SERVER_FILE_DISPLAY_NAME = "Hooligan Pack Server - $MODPACK_VERSION"
 
 # Path to the ModListCreators output file
 $ModlistPath = "$InstanceRoot/changelogs/modlist_$MODPACK_VERSION.md"
