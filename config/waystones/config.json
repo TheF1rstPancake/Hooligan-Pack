@@ -3,7 +3,7 @@
   "consume_infinite_knowledge_scroll_on_use": false,
   "store_waystone_data_on_sneak_break": true,
   "can_owners_redeem_payments": false,
-  "cost_amount": 1,
+  "cost_amount": 0,
   "cost_type": "level",
   "cost_item": "minecraft:ender_pearl",
   "waystone_block_hardness": 4,
