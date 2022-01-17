@@ -5,7 +5,7 @@
   ],
   "enableCurses": false,
   "altarDistributionRadius": 24,
-  "generateSilver": false,
+  "generateSilver": true,
   "generateSalt": false,
   "owlBiomeCategories": [
     "taiga",

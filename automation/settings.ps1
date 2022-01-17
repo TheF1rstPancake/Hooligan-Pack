@@ -26,11 +26,11 @@ $MODPACK_NAME = "hooligan-pack"
 $CLIENT_NAME = "Hooligan-Pack"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.2.5"
+$MODPACK_VERSION = "0.3.0"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.2.4"
+$LAST_MODPACK_VERSION = "0.2.5"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
@@ -42,7 +42,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "[![](https://i.imgur.com/o5aNlUD.jpg)](https://github.com/TeamAOF/Hooligan-Pack/blob/main/changelogs/CHANGELOG.md)"
+$CLIENT_CHANGELOG = "https://github.com/TheF1rstPancake/Hooligan-Pack/blob/main/changelogs/CHANGELOG.md"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS

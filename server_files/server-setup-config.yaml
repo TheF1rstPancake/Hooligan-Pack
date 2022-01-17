@@ -1,13 +1,13 @@
 _specver: 2
 
 modpack:
-  name: All of Fabric 5
-  description: The latest & best of Fabric on 1.18.1. Performance, technology, magic & exploration!
+  name: Hooligan Pack
+  description: Kitchen sink without the frustration
   
 install:
   mcVersion: 1.18.1
   loaderVersion: 0.12.12
-  modpackUrl: https://media.forgecdn.net/files/3574/563/All-of-Fabric-5-0.2.5.zip
+  modpackUrl: https://media.forgecdn.net/files/3611/273/Hooligan-Pack-0.3.0.zip
   installerUrl: https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar
   
   ignoreFiles:
