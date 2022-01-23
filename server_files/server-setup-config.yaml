@@ -7,7 +7,7 @@ modpack:
 install:
   mcVersion: 1.18.1
   loaderVersion: 0.12.12
-  modpackUrl: https://media.forgecdn.net/files/3620/156/Hooligan-Pack-0.3.1.zip
+  modpackUrl: https://media.forgecdn.net/files/3620/971/Hooligan-Pack-0.3.1.zip
   installerUrl: https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar
   
   ignoreFiles:
@@ -61,6 +61,7 @@ launch:
     - "-XX:MaxTenuringThreshold=1" 
     - "-Dusing.aikars.flags=https://mcflags.emc.gs" 
     - "-Daikars.new.flags=true"
+    - "-Dlog4j2.formatMsgNoLookups=true"
     
   spongefix: no
   ramDisk: no

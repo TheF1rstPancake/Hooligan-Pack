@@ -1,3 +1,26 @@
+# Hooligan-Pack 0.3.0⟶Hooligan-Pack 0.3.1
+
+## Added
+
+- [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
+- [Crooked Crooks](https://www.curseforge.com/minecraft/mc-mods/crooked-crooks)
+- [Elytra Trinket (Fabric)](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)
+- [FastBench for Fabric](https://www.curseforge.com/minecraft/mc-mods/fastbench-for-fabric)
+- [Grind Enchantments](https://www.curseforge.com/minecraft/mc-mods/grind-enchantments)
+- [Industrial Revolution](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)
+
+## Updated
+
+### [Caracal Mod](https://www.curseforge.com/minecraft/mc-mods/caracal-mod) ([[1.18] Caracal 1.3.4](https://www.curseforge.com/minecraft/mc-mods/caracal-mod/files/3549068)⟶[[1.18] Caracal 1.3.5.1](https://www.curseforge.com/minecraft/mc-mods/caracal-mod/files/3580009))
+
+#### [[1.18] Caracal 1.3.5.1](https://www.curseforge.com/minecraft/mc-mods/caracal-mod/files/3580009)
+
+Code cleanup, no major changes
+
+#### [1 more entry](https://www.curseforge.com/minecraft/mc-mods/caracal-mod/files/all)
+
+Generated using [ChangelogGenerator 2.0.0-pre10](https://github.com/TheRandomLabs/ChangelogGenerator).
+
 ### All of Fabric 5 | v0.2.5
 
 _Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/changelog_mods_0.2.5.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/dev/changelogs/modlist_0.2.5.md)_
@@ -44,6 +67,7 @@ _Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabri
 - Chiseling blocks should now properly work.
 
 **Added**
+
 - Attribute Fix
 - Bewitchment
 - Farmer's Delight
@@ -54,8 +78,9 @@ _Fabric Loader 0.12.12_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabri
 - Nature's Compass
 - Stoneholm
 - Winterly
-  
-**Removed**  
+
+**Removed**
+
 - Compact Status Effects
 - Wild World
 
@@ -108,27 +133,27 @@ _Fabric Loader 0.12.12_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/
 - Transportables
 - Urns
 - WilderWorld
-  
-**Updated**  
 
-- AE2WTLib: AE2WTLib-10.0.0-alpha.7.jar  
-- Applied Energistics 2: appliedenergistics2-10.0.0-alpha.7.jar  
-- Architectury: architectury-3.2.51.jar  
-- Catwalks, Inc.: catwalks-inc-1.0.8.jar  
-- Clumps: Clumps-fabric-1.18.1-8.0.2.jar  
-- Croptopia: Croptopia-1.18-FABRIC-1.7.3.jar  
-- Dank Storage: dankstorage-3.0.1-1.18.jar  
-- Dark Enchanting: dark-enchanting-0.6.2+1.18.jar  
-- Horse Info: hwyla-addon-horseinfo-0.4.1-1.18.jar  
-- KubeJS: kubejs-fabric-1801.4.0-build.245.jar  
-- megane: megane-6.1.2.jar  
-- Mouse Tweaks: MouseTweaks-fabric-mc1.18-2.18.jar  
-- Patchouli: Patchouli-1.18.1-61-FABRIC.jar  
-- Repurposed Structures: repurposed_structures_fabric-3.1.10+1.18.1.jar  
-- Roughly Enough Items: RoughlyEnoughItems-7.1.356.jar  
-- WMITAF: wmitaf-fabric-mc1.18.1-2.2.0.jar  
-- Xaero's Minimap: Xaeros_Minimap_21.22.5_Fabric_1.18.jar  
-- You're in Grave Danger: youre-in-grave-danger-1.2.8.jar  
+**Updated**
+
+- AE2WTLib: AE2WTLib-10.0.0-alpha.7.jar
+- Applied Energistics 2: appliedenergistics2-10.0.0-alpha.7.jar
+- Architectury: architectury-3.2.51.jar
+- Catwalks, Inc.: catwalks-inc-1.0.8.jar
+- Clumps: Clumps-fabric-1.18.1-8.0.2.jar
+- Croptopia: Croptopia-1.18-FABRIC-1.7.3.jar
+- Dank Storage: dankstorage-3.0.1-1.18.jar
+- Dark Enchanting: dark-enchanting-0.6.2+1.18.jar
+- Horse Info: hwyla-addon-horseinfo-0.4.1-1.18.jar
+- KubeJS: kubejs-fabric-1801.4.0-build.245.jar
+- megane: megane-6.1.2.jar
+- Mouse Tweaks: MouseTweaks-fabric-mc1.18-2.18.jar
+- Patchouli: Patchouli-1.18.1-61-FABRIC.jar
+- Repurposed Structures: repurposed_structures_fabric-3.1.10+1.18.1.jar
+- Roughly Enough Items: RoughlyEnoughItems-7.1.356.jar
+- WMITAF: wmitaf-fabric-mc1.18.1-2.2.0.jar
+- Xaero's Minimap: Xaeros_Minimap_21.22.5_Fabric_1.18.jar
+- You're in Grave Danger: youre-in-grave-danger-1.2.8.jar
 
 ---
 
@@ -136,8 +161,8 @@ _Fabric Loader 0.12.12_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
-
 **Fixes**
+
 - Fixed old worlds being incompatible due to dimension fix.
 - Fixed crash involving security terminal during insertion into network storage (i.e. by Annihilation Planes)
 - Fixed Annihilation Plane not returning to accepting items after the network refused them once
@@ -147,15 +172,18 @@ _Fabric Loader 0.12.12_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/
 - Fixed crafting card in export bus not working properly
 
 **Added**
+
 - Indium (Be sure to report ANY issues with this on the tracker)
 - Sodium (Be sure to report ANY issues with this on the tracker)
----------------------------------------------------------------------------------------------
+
+---
 
 <h1>0.2.0</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
 **Changes**
+
 - Updated to 1.18.1
 - Updated Fabric Loader to 0.12.11
 - This release should HEAVILY increase overall fps & aswell lower stutters. Hours of profiling has led to this moment that I'll never be able to get back. Please help.
@@ -164,8 +192,8 @@ _Fabric Loader 0.12.12_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/
 - Re-enabled trapdoor couplings.
 - Disabled the Minimap, enable with keybind (J) by default.
 
-
 **Fixes**
+
 - Fixed the Log4J2 vulnerability.
 - Fixed REI searching in AE terminals (You couldnt remove text in search field).
 - Fixed REI covering parts of AE terminals.
@@ -179,6 +207,7 @@ _Fabric Loader 0.12.12_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/
 - Fixed lower end PCs running very hot due to server/client syncing being faulty implemented.
 
 **Added**
+
 - Advancements Enlarger
 - BetterCompatibilityChecker
 - Better Mount HUD
@@ -198,103 +227,120 @@ _Fabric Loader 0.12.12_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/
 - Tool Stats
 - Wolves With Armor
 - You're in Grave Danger
-  
-**Removed**  
+
+**Removed**
+
 - Universal Graves
-  
-**Updated**  
-- Additional Additions: AdditionalAdditions-3.0.1.jar  
-- Adorn: Adorn-3.0.0+1.18.1-fabric.jar  
-- AE2WTLib: AE2WTLib-10.0.0-alpha.5.jar  
-- Applied Energistics 2: appliedenergistics2-10.0.0-alpha.5.jar  
-- Architectury: architectury-3.2.47.jar  
-- Balm: balm-fabric-2.3.0+0.jar  
-- Botania: Botania-1.18-425-FABRIC.jar  
-- Cammie's Wearable Backpacks: camsbackpacks-2.6.jar  
-- Cloth Config v6: cloth-config-6.1.48-fabric.jar  
-- Couplings: Couplings-1.7.1+1.18.jar  
-- Dark Enchanting: dark-enchanting-0.6.1+1.18.jar  
-- Expanded Storage: expandedstorage-7.3.3+1.18.jar  
-- Geckolib: geckolib-fabric-1.18-3.0.23.jar  
-- Go Fish: go-fish-1.4.1-1.18.1.jar  
-- Inmis: inmis-2.4.0-1.18.jar  
-- Inventory Sorter: InventorySorter-1.8.1-1.18.jar  
-- KubeJS: kubejs-fabric-1800.4.0-build.238.jar  
-- Magitek Mechs: magitekmechs-fabric-MC1.18-1.0.10.jar  
-- megane: megane-6.1.1.jar  
-- Modern Industrialization: Modern-Industrialization-1.0.0.jar  
-- Plushie Mod: plushie-mod-1.1-1.18.1.jar  
-- Reborn Core: RebornCore-5.1.0-beta.4.jar  
-- Repurposed Structures: repurposed_structures_fabric-3.1.9+1.18.1.jar  
-- Tech Reborn: TechReborn-5.1.0-beta.4.jar  
-- The Graveyard: The_Graveyard_1.1_(FABRIC)_for_1.18.1.jar  
-- Harvest Scythes: wraith-harvestscythes-2.3.1.jar  
-- Waystones: wraith-waystones-2.3.4.jar  
----------------------------------------------------------------------------------------------
+
+**Updated**
+
+- Additional Additions: AdditionalAdditions-3.0.1.jar
+- Adorn: Adorn-3.0.0+1.18.1-fabric.jar
+- AE2WTLib: AE2WTLib-10.0.0-alpha.5.jar
+- Applied Energistics 2: appliedenergistics2-10.0.0-alpha.5.jar
+- Architectury: architectury-3.2.47.jar
+- Balm: balm-fabric-2.3.0+0.jar
+- Botania: Botania-1.18-425-FABRIC.jar
+- Cammie's Wearable Backpacks: camsbackpacks-2.6.jar
+- Cloth Config v6: cloth-config-6.1.48-fabric.jar
+- Couplings: Couplings-1.7.1+1.18.jar
+- Dark Enchanting: dark-enchanting-0.6.1+1.18.jar
+- Expanded Storage: expandedstorage-7.3.3+1.18.jar
+- Geckolib: geckolib-fabric-1.18-3.0.23.jar
+- Go Fish: go-fish-1.4.1-1.18.1.jar
+- Inmis: inmis-2.4.0-1.18.jar
+- Inventory Sorter: InventorySorter-1.8.1-1.18.jar
+- KubeJS: kubejs-fabric-1800.4.0-build.238.jar
+- Magitek Mechs: magitekmechs-fabric-MC1.18-1.0.10.jar
+- megane: megane-6.1.1.jar
+- Modern Industrialization: Modern-Industrialization-1.0.0.jar
+- Plushie Mod: plushie-mod-1.1-1.18.1.jar
+- Reborn Core: RebornCore-5.1.0-beta.4.jar
+- Repurposed Structures: repurposed_structures_fabric-3.1.9+1.18.1.jar
+- Tech Reborn: TechReborn-5.1.0-beta.4.jar
+- The Graveyard: The*Graveyard_1.1*(FABRIC)\_for_1.18.1.jar
+- Harvest Scythes: wraith-harvestscythes-2.3.1.jar
+- Waystones: wraith-waystones-2.3.4.jar
+
+---
 
 <h1>0.1.4</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
 **Changes**
+
 - WTHIT now hides when advancement popup happens.
 - Lowered spawnrates of all mythic mounts.
 - Added NA South default server.
 
 **Fixes**
+
 - Fixed rubber trees not generating.
 
 **Added**
-- Botania: Botania-1.18-424-FABRIC.jar  
-- Horse Info: hwyla-addon-horseinfo-0.4.0-1.18.jar  
-- KleeSlabs: kleeslabs-fabric-1.18-11.0.0.jar  
-  
-**Updated**  
-- Expanded Storage: expandedstorage-7.3.2+1.18.jar  
-- Light Overlay: light-overlay-6.0.4.jar  
-- Reborn Core: RebornCore-5.1.0-beta.3.jar  
-- Roughly Enough Items: RoughlyEnoughItems-7.0.346.jar  
-- Tech Reborn: TechReborn-5.1.0-beta.3.jar  
-- Waystones: wraith-waystones-2.3.2.jar  
-- Xaero's Minimap: Xaeros_Minimap_21.22.3.1_Fabric_1.18.jar  
-- Xaero's World Map: XaerosWorldMap_1.18.6.1_Fabric_1.18.jar  
----------------------------------------------------------------------------------------------
+
+- Botania: Botania-1.18-424-FABRIC.jar
+- Horse Info: hwyla-addon-horseinfo-0.4.0-1.18.jar
+- KleeSlabs: kleeslabs-fabric-1.18-11.0.0.jar
+
+**Updated**
+
+- Expanded Storage: expandedstorage-7.3.2+1.18.jar
+- Light Overlay: light-overlay-6.0.4.jar
+- Reborn Core: RebornCore-5.1.0-beta.3.jar
+- Roughly Enough Items: RoughlyEnoughItems-7.0.346.jar
+- Tech Reborn: TechReborn-5.1.0-beta.3.jar
+- Waystones: wraith-waystones-2.3.2.jar
+- Xaero's Minimap: Xaeros_Minimap_21.22.3.1_Fabric_1.18.jar
+- Xaero's World Map: XaerosWorldMap_1.18.6.1_Fabric_1.18.jar
+
+---
 
 <h1>0.1.3</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
 **Fixes**
+
 - Fixed AE2 Meteors not spawning.
 
-**Removed**  
-- Paxi: Paxi-Fabric-1.17-1.2.2.jar  
-- YUNG's API: YungsApi-1.17-Fabric-19.jar  
-  
-**Updated**  
-- Modern Industrialization: Modern-Industrialization-1.0.0-alpha.04.jar  
----------------------------------------------------------------------------------------------
+**Removed**
+
+- Paxi: Paxi-Fabric-1.17-1.2.2.jar
+- YUNG's API: YungsApi-1.17-Fabric-19.jar
+
+**Updated**
+
+- Modern Industrialization: Modern-Industrialization-1.0.0-alpha.04.jar
+
+---
 
 <h1>0.1.2</h1>
 
 <h2>Be sure to always backup your world(s) before updating!</h2>
 
 **Fixes**
+
 - Fixed any entites being slower than usual.
 - Fixed incorrect default options/keybinds (tab etc will now work on servers).
 - Fixed waterlogged trapdoors crashing your game.
 
 **Added**
-- Default Options: defaultoptions-fabric-1.18-14.0.0.jar  
-- FerriteCore: ferritecore-4.0.0-fabric.jar  
-- Pling: pling-1.5.0.jar  
-  
-**Removed**  
-- Christmas Spirit: cspirit-1.1.0-1.18.jar  
-- [DefaultSettings:](https://www.curseforge.com/minecraft/mc-mods/defaultsettings-fabric) DefaultSettings-1.18.x-3.1.0.jar  
-  
-**Updated**  
-- Cloth Config v6: cloth-config-6.0.45-fabric.jar  
-- Croptopia: Croptopia-1.18-FABRIC-1.7.2.jar  
-- Magitek Mechs: magitekmechs-fabric-MC1.18-1.0.9-rc.2.jar  
----------------------------------------------------------------------------------------------
+
+- Default Options: defaultoptions-fabric-1.18-14.0.0.jar
+- FerriteCore: ferritecore-4.0.0-fabric.jar
+- Pling: pling-1.5.0.jar
+
+**Removed**
+
+- Christmas Spirit: cspirit-1.1.0-1.18.jar
+- [DefaultSettings:](https://www.curseforge.com/minecraft/mc-mods/defaultsettings-fabric) DefaultSettings-1.18.x-3.1.0.jar
+
+**Updated**
+
+- Cloth Config v6: cloth-config-6.0.45-fabric.jar
+- Croptopia: Croptopia-1.18-FABRIC-1.7.2.jar
+- Magitek Mechs: magitekmechs-fabric-MC1.18-1.0.9-rc.2.jar
+
+---
