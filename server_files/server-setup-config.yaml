@@ -7,7 +7,7 @@ modpack:
 install:
   mcVersion: 1.18.1
   loaderVersion: 0.12.12
-  modpackUrl: https://media.forgecdn.net/files/3611/273/Hooligan-Pack-0.3.0.zip
+  modpackUrl: https://media.forgecdn.net/files/3620/156/Hooligan-Pack-0.3.1.zip
   installerUrl: https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.jar
   
   ignoreFiles:
@@ -34,9 +34,9 @@ install:
 
 launch:
   # specifies the max amount of ram the server is supposed to launch with (Xmx)
-  maxRam: 4G
+  maxRam: 10G
   # specifies the minimal amount of ram the server is supposed to launch with (Xms)
-  minRam: 4G
+  minRam: 10G
   # specifies whether the server is supposed to auto restart after crash
   autoRestart: yes
   javaArgs:

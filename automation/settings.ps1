@@ -26,11 +26,11 @@ $MODPACK_NAME = "hooligan-pack"
 $CLIENT_NAME = "Hooligan-Pack"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.3.0"
+$MODPACK_VERSION = "0.3.1"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.2.5"
+$LAST_MODPACK_VERSION = "0.3.0"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
