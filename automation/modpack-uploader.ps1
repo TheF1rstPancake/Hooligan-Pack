@@ -337,10 +337,10 @@ function Remove-LeadingZero {
 
 Test-ForDependencies
 New-ClientFiles
-Push-ClientFiles
-if ($ENABLE_SERVER_FILE_MODULE -and -not $ENABLE_MODPACK_UPLOADER_MODULE) {
-  New-ServerFiles
-}
-New-GitHubRelease
+#Push-ClientFiles
+#if ($ENABLE_SERVER_FILE_MODULE -and -not $ENABLE_MODPACK_UPLOADER_MODULE) {
+#  New-ServerFiles
+#}
+#New-GitHubRelease
 New-Changelog
 Update-Modlist
